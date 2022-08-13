@@ -1,4 +1,4 @@
-# Arduino_Robot_Arm_V2_installation_guide
+# Arduino_Robot_Arm_2_installation_guide
 
 
   this guide assumes that you have already installed the (Arduino Robot Arm)
