@@ -21,7 +21,7 @@
 
 4- Go to the folder urdf
 
-    catkin_**workspace name** -> src -> arduni_robot_arm - > robot_arm_pkg -> urdf
+    catkin_%workspace name% -> src -> arduni_robot_arm - > robot_arm_pkg -> urdf
     
 5- Edit the .urdf file then replace it with the following text: 
 
