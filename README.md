@@ -38,7 +38,8 @@
     
     roslaunch robot_arm_pkg check_motors.launch
 
-7 - And that's it you can now view the new robot Arm in Rviz and move it freely using the joint state publisher.
+7- And that's it you can now view the new robot Arm in Rviz and move it freely using the joint state publisher.
+
 
 
 
