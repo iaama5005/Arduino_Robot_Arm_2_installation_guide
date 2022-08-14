@@ -34,7 +34,7 @@
     
     catkin_make
     
-    source /home/%user name%/catkin_%workspace name%/devel/setup.bash
+    source /home/%username%/catkin_%WorkspaceName%/devel/setup.bash
     
     roslaunch robot_arm_pkg check_motors.launch
 
