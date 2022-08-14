@@ -40,6 +40,7 @@
 
 7- And that's it you can now view the new robot Arm in Rviz and move it freely using the joint state publisher.
 
+![unknown](https://user-images.githubusercontent.com/91455733/184518859-405a4432-f5bf-4acd-8ec4-323216601288.png)
 
 
 
